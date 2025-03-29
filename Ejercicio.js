@@ -28,4 +28,9 @@ console.log(nombreCompleto2);
  x= 5;
  y=3;
  console.log(x,y);
+
+ var bandera = true;
+ var z;
+ console.log(bandera);
+ console.log(z);
  
