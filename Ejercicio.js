@@ -33,4 +33,9 @@ console.log(nombreCompleto2);
  var z;
  console.log(bandera);
  console.log(z);
- 
+ var objeto = {
+    Nombre:"Daniel",
+    Apellido:"Moncada",
+    telefono: 3223427352
+ }
+ console.log(objeto);
