@@ -39,3 +39,4 @@ console.log(nombreCompleto2);
     telefono: 3223427352
  }
  console.log(objeto);
+ console.log(objeto.Nombre)
