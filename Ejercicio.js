@@ -40,3 +40,15 @@ console.log(nombreCompleto2);
  }
  console.log(objeto);
  console.log(objeto.Nombre)
+//Array
+var autos = ['BMW','AUDI','VOLVO'];
+console.log(autos[1])
+
+
+
+class persona{
+    constructor(nombre, apellido){
+        this.nombre=nombre;
+        this.apellido=apellido;
+    }
+}
